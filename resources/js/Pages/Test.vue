@@ -1,8 +1,9 @@
 <template>
     <div>Test Page</div>
-    <part>
-        qweqweqwe
-    </part>
+    <part> component slot for test page </part>
+    <br>
+    <inertia-link href="/"> Home </inertia-link>
+
 </template>
 
 <script>
